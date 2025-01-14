@@ -8,6 +8,7 @@ Public Class Form2
 
     Private Sub gestion(sender As Object, e As EventArgs) Handles MyBase.Load
         charger()
+
     End Sub
 
     Private Sub btnAjouter_Click(sender As Object, e As EventArgs) Handles ajouter.Click
@@ -124,6 +125,16 @@ Public Class Form2
                     volst.Rows.Add(valeurs)
                 End While
             End Using
+        End If
+    End Sub
+    Private Sub volst_SelectionChanged(sender As Object, e As EventArgs) Handles volst.SelectionChanged
+        If volst.SelectedRows.Count > 0 Then
+            Dim selectedRow = volst.SelectedRows(0)
+            numero.Text = selectedRow.Cells("num").Value.ToString
+            dest.Text = selectedRow.Cells("des").Value.ToString
+            dateh.Text = selectedRow.Cells("dat").Value.ToString
+            nbpl.Text = selectedRow.Cells("nbp").Value.ToString
+            prix.Text = selectedRow.Cells("pri").Value.ToString
         End If
     End Sub
 End Class

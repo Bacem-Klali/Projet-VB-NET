@@ -1,0 +1,9 @@
+--- Récu de Réservation ---
+Nom: Klali
+Prénom: Bacem
+Numéro de téléphone: 99999999
+Numéro de vol: 256
+Destination: france
+Date et heure: 18/12/2025 06:33
+Prix: 80 TND
+--- Merci pour votre réservation ! ---

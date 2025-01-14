@@ -9,6 +9,7 @@ Public Class Form3
 
     Private Sub reserve(sender As Object, e As EventArgs) Handles MyBase.Load
         charger()
+
     End Sub
 
     Private Sub rechercher(sender As Object, e As EventArgs) Handles rech.Click
