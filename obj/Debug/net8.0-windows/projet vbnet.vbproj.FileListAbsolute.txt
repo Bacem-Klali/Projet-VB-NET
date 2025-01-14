@@ -1,0 +1,18 @@
+C:\Users\USER\source\repos\projet vbnet\bin\Debug\net8.0-windows\projet vbnet.exe
+C:\Users\USER\source\repos\projet vbnet\bin\Debug\net8.0-windows\projet vbnet.deps.json
+C:\Users\USER\source\repos\projet vbnet\bin\Debug\net8.0-windows\projet vbnet.runtimeconfig.json
+C:\Users\USER\source\repos\projet vbnet\bin\Debug\net8.0-windows\projet vbnet.dll
+C:\Users\USER\source\repos\projet vbnet\bin\Debug\net8.0-windows\projet vbnet.pdb
+C:\Users\USER\source\repos\projet vbnet\obj\Debug\net8.0-windows\projet_vbnet.Form1.resources
+C:\Users\USER\source\repos\projet vbnet\obj\Debug\net8.0-windows\projet_vbnet.Form2.resources
+C:\Users\USER\source\repos\projet vbnet\obj\Debug\net8.0-windows\projet_vbnet.Form3.resources
+C:\Users\USER\source\repos\projet vbnet\obj\Debug\net8.0-windows\projet vbnet.vbproj.GenerateResource.cache
+C:\Users\USER\source\repos\projet vbnet\obj\Debug\net8.0-windows\projet vbnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\projet vbnet\obj\Debug\net8.0-windows\projet vbnet.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\projet vbnet\obj\Debug\net8.0-windows\projet vbnet.AssemblyInfo.vb
+C:\Users\USER\source\repos\projet vbnet\obj\Debug\net8.0-windows\projet vbnet.vbproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\projet vbnet\obj\Debug\net8.0-windows\projet vbnet.dll
+C:\Users\USER\source\repos\projet vbnet\obj\Debug\net8.0-windows\refint\projet vbnet.dll
+C:\Users\USER\source\repos\projet vbnet\obj\Debug\net8.0-windows\projet vbnet.pdb
+C:\Users\USER\source\repos\projet vbnet\obj\Debug\net8.0-windows\projet vbnet.genruntimeconfig.cache
+C:\Users\USER\source\repos\projet vbnet\obj\Debug\net8.0-windows\ref\projet vbnet.dll

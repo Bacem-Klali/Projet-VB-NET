@@ -1,0 +1,9 @@
+--- Récapitulatif de Réservation ---
+Nom: bacem
+Prénom: klali
+Numéro de téléphone: 99340851
+Numéro de vol: 854
+Destination: tunis
+Date et heure: jeudi 12 décembre
+Prix: 55 €
+--- Merci pour votre réservation ! ---

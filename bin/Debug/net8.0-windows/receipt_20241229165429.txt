@@ -1,0 +1,9 @@
+--- Récu de Réservation ---
+Nom: bacem
+Prénom: klali
+Numéro de téléphone: 9987485
+Numéro de vol: 932
+Destination: italie
+Date et heure: 08/03/2020 09:12
+Prix: 55 TND
+--- Merci pour votre réservation ! ---

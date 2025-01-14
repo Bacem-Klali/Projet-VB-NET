@@ -1,0 +1,9 @@
+--- Récu de Réservation ---
+Nom: llllnnjnj 
+Prénom: jkkbk
+Numéro de téléphone: 99999999
+Numéro de vol: 854
+Destination: tunis
+Date et heure: 12/08/2002 12:55
+Prix: 99 TND
+--- Merci pour votre réservation ! ---
